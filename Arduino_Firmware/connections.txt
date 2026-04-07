@@ -1,0 +1,8 @@
+| Function  | Arduino Pin |
+| --------- | ----------- |
+| Turbidity | A0          |
+| pH        | A1          |
+| TDS       | A2          |
+| LCD SDA   | A4          |
+| LCD SCL   | A5          |
+
